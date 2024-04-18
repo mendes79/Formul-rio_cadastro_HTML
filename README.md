@@ -4,11 +4,11 @@ Exemplo de página de cadastro HTML, CSS e JS, com validação dos dados de entr
 
 Méritos ao Matheus Fraga (https://github.com/devfraga) pela vídeo aula explicativa em seu canal do youtube.
 
-## INSTALLATION / INSTALAÇÃO
+### INSTALLATION / INSTALAÇÃO
 
 Não requer instalação.
 
-## USE / UTILIZAÇÃO
+### USE / UTILIZAÇÃO
 
 Você pode baixar os arquivos e abrir o arquivo index.html em seu navegador para ver o aplicativo de cadastro e testá-lo;
 
@@ -31,11 +31,11 @@ Em caso de sucesso, com a validação dos campos ok, emite um pop-up de "Cadastr
 
 Basicamente, para fins didáticos mas pode ser facilmente incorporado em aplicações web.
 
-### CONTACT
+#### CONTACT
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/lu%C3%ADs-mendes-de-oliveira-3bba2640/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/mendes79?tab=repositories) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://www.instagram.com/mendes79bh/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter-squared.png" title="X">](https://twitter.com/luismendes79)
 
-## ANOTHER PROJECTS:
+#### ANOTHER PROJECTS:
 
 New projects coming soon!
 (Em breve...)

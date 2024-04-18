@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Importação da font Poppins -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Carregar o arquivo de estilização do site -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- Texto da aba do navegador -->
+    <title>New User</title>
+  </head>
+  <body>
+    <div class="container">
+      <!-- cabeçalho do formulário - header -->
+      <section class="header">
+        <h2>Nova Conta</h2>
+      </section>
+
+      <!-- formulário em si - form -->
+      <form id="form" class="form">
+        <!-- Campo do username -->
+        <div class="form-content">
+          <label for="username">Nome do Usuário</label>
+          <input
+            type="text"
+            id="username"
+            placeholder="Digite o nome do usuário..."
+          />
+          <a>Aqui vai a mensagem de erro....</a>
+        </div>
+
+        <!-- Campo do e-mail -->
+        <div class="form-content">
+          <label for="email">E-mail</label>
+          <input type="email" id="email" placeholder="Digite o seu e-mail..." />
+          <a>Aqui vai a mensagem de erro....</a>
+        </div>
+
+        <!-- Campo da senha -->
+        <div class="form-content">
+          <label for="password">Senha</label>
+          <input
+            type="password"
+            id="password"
+            placeholder="Digite sua senha..."
+          />
+          <a>Aqui vai a mensagem de erro....</a>
+        </div>
+
+        <!-- Campo da confirmação da senha -->
+        <div class="form-content">
+          <label for="password_confirm">Confirme sua Senha</label>
+          <input
+            type="password"
+            id="password_confirm"
+            placeholder="Digite novamente sua senha..."
+          />
+          <a>Aqui vai a mensagem de erro....</a>
+        </div>
+
+        <!-- Botão de envio do formulário -->
+        <button type="submit">Cadastrar</button>
+      </form>
+    </div>
+
+    <!-- carregar o script Java Script -->
+    <script src="./script.js"></script>
+  </body>
+</html>
